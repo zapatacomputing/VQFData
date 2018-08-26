@@ -1,4 +1,4 @@
-# Data for variational quantum factoring (VQF) algorithm
+# Variational Quantum Factoring (VQF) algorithm
 
 Eric R. Anschuetz, Jonathan Olson, Alan Aspuru-Guzik  and Yudong Cao
 
