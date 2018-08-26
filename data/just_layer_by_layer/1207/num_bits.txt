@@ -1,2 +1,0 @@
-5 carry bits
-3 real bits
